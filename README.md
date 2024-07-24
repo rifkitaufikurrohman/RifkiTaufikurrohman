@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifki Taufikurrohman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkitaufikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="rifkitaufikurrohman" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkitaufikurrohman&label=Profile%20views&color=0e75b6&style=flat" alt="rifkitaufikurrohman" /> </p> -->
 
 - 🌱 I’m currently learning **Javascript**
 
